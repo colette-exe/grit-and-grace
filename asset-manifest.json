@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/grit-and-grace/static/css/main.073c9b0a.css",
+    "main.js": "/grit-and-grace/static/js/main.6eaf4994.js",
+    "static/js/787.2971063f.chunk.js": "/grit-and-grace/static/js/787.2971063f.chunk.js",
+    "static/media/logo.svg": "/grit-and-grace/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/grit-and-grace/index.html",
+    "main.073c9b0a.css.map": "/grit-and-grace/static/css/main.073c9b0a.css.map",
+    "main.6eaf4994.js.map": "/grit-and-grace/static/js/main.6eaf4994.js.map",
+    "787.2971063f.chunk.js.map": "/grit-and-grace/static/js/787.2971063f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6eaf4994.js"
+  ]
+}
