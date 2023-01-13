@@ -1,16 +1,28 @@
 {
   "files": {
-    "main.css": "/grit-and-grace/static/css/main.073c9b0a.css",
-    "main.js": "/grit-and-grace/static/js/main.6eaf4994.js",
-    "static/js/787.2971063f.chunk.js": "/grit-and-grace/static/js/787.2971063f.chunk.js",
-    "static/media/logo.svg": "/grit-and-grace/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/grit-and-grace/static/css/main.0b06a674.css",
+    "main.js": "/grit-and-grace/static/js/main.32c58869.js",
+    "static/media/Grit&Grace.png": "/grit-and-grace/static/media/Grit&Grace.f5f6aff75f60c8f2a4ce.png",
+    "static/media/Poppins-Regular.ttf": "/grit-and-grace/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/AdventPro-Regular.ttf": "/grit-and-grace/static/media/AdventPro-Regular.64ea3ec4f5a0ee3c48b0.ttf",
+    "static/media/Dosis-Regular.ttf": "/grit-and-grace/static/media/Dosis-Regular.be60a48fbf959e21db17.ttf",
+    "static/media/Dosis-SemiBold.ttf": "/grit-and-grace/static/media/Dosis-SemiBold.63a1f7c5a678ba3de0d3.ttf",
+    "static/media/Dosis-Medium.ttf": "/grit-and-grace/static/media/Dosis-Medium.681b424d3b91ad201df5.ttf",
+    "static/media/Dosis-Light.ttf": "/grit-and-grace/static/media/Dosis-Light.001ea7047e8b4b6dcd61.ttf",
+    "static/media/Dosis-Bold.ttf": "/grit-and-grace/static/media/Dosis-Bold.ca2297833b4bd840da76.ttf",
+    "static/media/Dosis-ExtraBold.ttf": "/grit-and-grace/static/media/Dosis-ExtraBold.78617bd32827d2cdcd98.ttf",
+    "static/media/Dosis-ExtraLight.ttf": "/grit-and-grace/static/media/Dosis-ExtraLight.e126f80cbae9999eff46.ttf",
+    "static/media/Arvo-Regular.ttf": "/grit-and-grace/static/media/Arvo-Regular.e3d3d53c44db025c4592.ttf",
+    "static/media/Arvo-Bold.ttf": "/grit-and-grace/static/media/Arvo-Bold.7d67f4cedc80f3f5d262.ttf",
+    "static/media/Arvo-BoldItalic.ttf": "/grit-and-grace/static/media/Arvo-BoldItalic.fdea97820c2efc108652.ttf",
+    "static/media/abel-regular.ttf": "/grit-and-grace/static/media/abel-regular.53795b54610984a3bb91.ttf",
+    "static/media/Arvo-Italic.ttf": "/grit-and-grace/static/media/Arvo-Italic.a8b62a87ded1615d5df3.ttf",
     "index.html": "/grit-and-grace/index.html",
-    "main.073c9b0a.css.map": "/grit-and-grace/static/css/main.073c9b0a.css.map",
-    "main.6eaf4994.js.map": "/grit-and-grace/static/js/main.6eaf4994.js.map",
-    "787.2971063f.chunk.js.map": "/grit-and-grace/static/js/787.2971063f.chunk.js.map"
+    "main.0b06a674.css.map": "/grit-and-grace/static/css/main.0b06a674.css.map",
+    "main.32c58869.js.map": "/grit-and-grace/static/js/main.32c58869.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.6eaf4994.js"
+    "static/css/main.0b06a674.css",
+    "static/js/main.32c58869.js"
   ]
 }
