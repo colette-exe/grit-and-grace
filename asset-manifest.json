@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/grit-and-grace/static/css/main.e9a00973.css",
+    "main.css": "/grit-and-grace/static/css/main.90637e16.css",
     "main.js": "/grit-and-grace/static/js/main.32c58869.js",
     "static/media/Grit&Grace.png": "/grit-and-grace/static/media/Grit&Grace.f5f6aff75f60c8f2a4ce.png",
     "static/media/Poppins-Regular.ttf": "/grit-and-grace/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
@@ -18,11 +18,11 @@
     "static/media/abel-regular.ttf": "/grit-and-grace/static/media/abel-regular.53795b54610984a3bb91.ttf",
     "static/media/Arvo-Italic.ttf": "/grit-and-grace/static/media/Arvo-Italic.a8b62a87ded1615d5df3.ttf",
     "index.html": "/grit-and-grace/index.html",
-    "main.e9a00973.css.map": "/grit-and-grace/static/css/main.e9a00973.css.map",
+    "main.90637e16.css.map": "/grit-and-grace/static/css/main.90637e16.css.map",
     "main.32c58869.js.map": "/grit-and-grace/static/js/main.32c58869.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9a00973.css",
+    "static/css/main.90637e16.css",
     "static/js/main.32c58869.js"
   ]
 }
