@@ -1,0 +1,54 @@
+#img-logo-other {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    margin-top: 5vw;
+}
+
+#members-content {
+    /* margin: 3%;
+    margin-top: 0;
+    padding: 3%;
+    background-color: rgb(117, 180, 192); */
+
+    /* positioning */
+    align-items: center;
+    display: table;
+    width: 100%;
+
+    font-family: Dosis;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(48, 63, 94);
+}
+
+#member-summary {
+    text-align: center;
+    display: block;
+    padding: 3%;
+    margin: 3%;
+    margin-top: 0;
+
+    font-family: Lobster;
+    font-size: 60px;
+    background-color: rgb(117, 180, 192);
+}
+
+div.member-card {
+    display: table-cell;
+    vertical-align: middle;
+
+    margin: 30%;
+    margin-bottom: 3%;
+    margin-top: 3%;
+    margin-top: 0;
+    padding: 3vw;
+
+    border-style: solid;
+    border-radius: 10px;
+    border: rgb(117, 180, 192);
+    background-color: rgb(238, 202, 197);
+
+    display:grid;
+}

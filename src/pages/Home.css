@@ -1,0 +1,39 @@
+#header {
+    position: fixed;
+    top: 0;
+    display: flex;
+    width: 100%;
+    background-color: rgb(71, 132, 72);
+}
+
+#header #logo {
+    margin-right: 10vw;
+}
+
+#header-buttons button {
+    /* margin: 3%; */
+    padding: 1vw;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display:inline-flex;
+    width: max-content;
+
+    font-size: 12;
+    font-family: Poppins;
+    font-weight: 600;
+    color: rgb(232, 232, 233);
+
+    background-color: rgb(67, 134, 68);
+    /* border-radius: 5px; */
+    border:rgb(67, 134, 68);
+}
+
+#header-buttons button:hover {
+    color: rgb(67, 134, 68);
+    background-color: rgb(240, 192, 181);
+    transition: 500ms;
+}
+
+/* #home-body {
+    margin-top: 5vw;
+} */

@@ -1,0 +1,24 @@
+#img-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+#home-content {
+    margin: 3%;
+    margin-top: 0;
+    padding: 3%;
+    background-color: rgb(117, 180, 192);
+
+    /* positioning */
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+    font-family: Dosis;
+    font-size: 14px;
+    font-weight: 600;
+
+    border-radius: 10px;
+}

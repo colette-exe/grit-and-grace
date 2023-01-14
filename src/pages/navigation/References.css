@@ -1,0 +1,14 @@
+#references {
+    position: relative;
+    top: 3vw;
+    text-align: center;
+    margin: 3%;
+    margin-bottom: 5%;
+}
+
+#references h3 {
+    font-family: Lobster;
+    text-align: center;
+    font-size: 80px;
+    color: rgb(106, 156, 134);
+}

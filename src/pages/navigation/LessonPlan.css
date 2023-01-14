@@ -1,0 +1,40 @@
+#lesson-plan-header {
+    display: flex;
+    margin-top: 5vw;
+}
+
+#lesson-plan-img {
+    height: 30%;
+    max-width: 40%;
+    
+    display: block;
+    margin-left: 25%;
+    margin-right: 0%;
+}
+
+#lesson-plan #buttons {
+    /* position */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+#lesson-plan button {
+    /* design */
+    margin: 7%;
+    padding: 1vw;
+    font-size: 20px;
+    font-family: Dosis-Bold;
+    font-weight: bold;
+    color: rgb(67, 134, 68);
+
+    background-color: rgb(240, 192, 181);
+    border-radius: 5px;
+    border:rgb(240, 192, 181);
+}
+
+#lesson-plan button:hover {
+    color: rgb(235, 229, 230);
+    background-color: rgb(117, 180, 192);
+    transition: 500ms;
+}

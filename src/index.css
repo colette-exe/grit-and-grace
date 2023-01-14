@@ -1,4 +1,44 @@
+@font-face {
+  font-family: 'Arvo';
+  src: url(font/Arvo/Arvo-Bold.ttf) format('truetype');
+  src: url(font/Arvo/Arvo-BoldItalic.ttf) format('truetype');
+  src: url(font/Arvo/Arvo-Italic.ttf) format('truetype');
+  src: url(font/Arvo/Arvo-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Dosis';
+  src: url(font/Dosis/Dosis-Regular.ttf) format('truetype');
+  src: url(font/Dosis/Dosis-Bold.ttf) format('truetype');
+  src: url(font/Dosis/Dosis-SemiBold.ttf) format('truetype');
+  src: url(font/Dosis/Dosis-ExtraBold.ttf) format('truetype');
+  src: url(font/Dosis/Dosis-Light.ttf) format('truetype');
+  src: url(font/Dosis/Dosis-Medium.ttf) format('truetype');
+  src: url(font/Dosis/Dosis-ExtraLight.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'AdventPro';
+  src: url(font/AdventPro/AdventPro-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Abel';
+  src: url(font/Abel/abel-regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Poppins';
+  src: url(font/Poppins/Poppins-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Lobster';
+  src: url(font/Lobster/Lobster-Regular.ttf) format('truetype');
+}
+
 body {
+  background-color: rgb(235, 229, 230);
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',

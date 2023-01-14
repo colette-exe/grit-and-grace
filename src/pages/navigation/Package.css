@@ -1,0 +1,23 @@
+#img-package {
+    display: block;
+    margin-top: 7vw;
+    margin-bottom: 5vw;
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 60%;
+}
+
+#package-body {
+    font-size: 20px;
+    font: Dosis;
+    background-color: rgb(238, 202, 197);
+
+    display: block;
+    margin: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    text-align: center;
+    padding: 3%;
+}
