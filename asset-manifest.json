@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/grit-and-grace/static/css/main.836cb7a5.css",
-    "main.js": "/grit-and-grace/static/js/main.47b4bc44.js",
+    "main.css": "/grit-and-grace/static/css/main.e18af51b.css",
+    "main.js": "/grit-and-grace/static/js/main.618afbc4.js",
     "static/media/learning-package-banner.png": "/grit-and-grace/static/media/learning-package-banner.2c175b425e8064b22cf5.png",
+    "static/media/banner.png": "/grit-and-grace/static/media/banner.b90bceb98be57bbe799a.png",
     "static/media/lesson-plans-img.png": "/grit-and-grace/static/media/lesson-plans-img.57c0a718bc235ab9e831.png",
     "static/media/Lobster-Regular.ttf": "/grit-and-grace/static/media/Lobster-Regular.03c38496322925fec242.ttf",
     "static/media/Grit&Grace.png": "/grit-and-grace/static/media/Grit&Grace.f5f6aff75f60c8f2a4ce.png",
@@ -21,11 +22,11 @@
     "static/media/abel-regular.ttf": "/grit-and-grace/static/media/abel-regular.53795b54610984a3bb91.ttf",
     "static/media/Arvo-Italic.ttf": "/grit-and-grace/static/media/Arvo-Italic.a8b62a87ded1615d5df3.ttf",
     "index.html": "/grit-and-grace/index.html",
-    "main.836cb7a5.css.map": "/grit-and-grace/static/css/main.836cb7a5.css.map",
-    "main.47b4bc44.js.map": "/grit-and-grace/static/js/main.47b4bc44.js.map"
+    "main.e18af51b.css.map": "/grit-and-grace/static/css/main.e18af51b.css.map",
+    "main.618afbc4.js.map": "/grit-and-grace/static/js/main.618afbc4.js.map"
   },
   "entrypoints": [
-    "static/css/main.836cb7a5.css",
-    "static/js/main.47b4bc44.js"
+    "static/css/main.e18af51b.css",
+    "static/js/main.618afbc4.js"
   ]
 }
