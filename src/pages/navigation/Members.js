@@ -6,10 +6,10 @@ import './Members.css';
 
 function Members() {
     // filenames
-    const mem1 = "1-24.jpg";
-    const mem2 = "2-9.jpg";
-    const mem3 = "3-7.jpg";
-    const mem4 = "4-4.jpg";
+    const mem1 = "1-24.png";
+    const mem2 = "2-9.png";
+    const mem3 = "3-7.png";
+    const mem4 = "4-4.png";
 
     // file references
     const ref1 = ref(storage, mem1);

@@ -12,6 +12,7 @@ class Feedback extends React.Component {
                         <li>crduka1@upou.edu.ph</li>
                         <li>lady.adoptante@upou.edu.ph</li>
                         <li>svlaureano@upou.edu.ph</li>
+                        <li>christinejoyvelicaria@gmail.com</li>
                     </ul>
                     <br />
                     <br/>

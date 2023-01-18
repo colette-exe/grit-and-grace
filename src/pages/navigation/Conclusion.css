@@ -24,3 +24,7 @@
 #conclusion #content h2 {
     font-size: 40px;
 }
+
+#conclusion iframe {
+    border-radius: 10px;
+}

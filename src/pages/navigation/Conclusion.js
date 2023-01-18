@@ -19,7 +19,7 @@ function Conclusion() {
     return (
         <div id="conclusion">
             <h1>Conclusions and Recommendations</h1>
-            <iframe width="80%" height="600px" src={Url} type="video/mp4"></iframe>
+            <iframe width="80%" height="600px" src={Url} type="video/mp4" allowFullScreen="true"></iframe>
             <br />
             <div id="content">
             <br /><br />

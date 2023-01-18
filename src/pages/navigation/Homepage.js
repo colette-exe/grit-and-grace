@@ -23,7 +23,7 @@ function Homepage() {
             <div><img id="img-logo" src={logo} alt="Logo" /></div>
 
             <div id="home-content">
-                <iframe width="80%" height="600px" src={Url} type="video/mp4"></iframe>
+                <iframe width="80%" height="600px" src={Url} type="video/mp4" allowFullScreen="true"></iframe>
                 <div id="paragraph">
                     <h2>Mabuhay!</h2>
                     <h3>You are now in the Grit and Grace learning pod.</h3>

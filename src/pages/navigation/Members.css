@@ -2,28 +2,13 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 60%;
+    width: 30%;
     margin-top: 5vw;
 }
 
-#members-content {
-    /* margin: 3%;
-    margin-top: 0;
-    padding: 3%;
-    background-color: rgb(117, 180, 192); */
-
-    /* positioning */
-    align-items: center;
-    display: table;
-    width: 100%;
-
-    font-family: Dosis;
-    font-size: 20px;
-    font-weight: bold;
-    color: rgb(48, 63, 94);
-}
-
 #member-summary {
+    color: rgb(48, 63, 94);
+    font-weight: 600;
     text-align: center;
     display: block;
     padding: 1%;
@@ -35,31 +20,26 @@
     background-color: rgb(117, 180, 192);
 }
 
-div.member-card {
-    display: table-cell;
-    vertical-align: middle;
-
+.member-card {
     margin: auto;
     margin-bottom: 3%;
     margin-top: 0;
     padding: 3vw;
-    max-height: 450px;
-    max-width: 450px;
+    max-height: 500px;
+    max-width: 500px;
 
     border-style: solid;
     border-radius: 10px;
     border: rgb(238, 202, 197);
     background-color: rgb(238, 202, 197);
     overflow: hidden;
-
-    display:grid;
 }
 
-div.member-card iframe {
-    width: 1200px;
-    height: 1200px;
+.member-card iframe {
+    width: 1000px;
+    height: 1000px;
     border: 0;
-    position: inherit;
-    transform: scale(0.40);
-    transform-origin: 0 0;
+    display: flex;
+
+    overflow: hidden;
 }
