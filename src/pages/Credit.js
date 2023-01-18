@@ -5,6 +5,7 @@ class Credit extends React.Component {
     render() {
         return (
             <div id='credit'>
+                <hr></hr>
                 <h3>University of the Philippines Open University</h3>
                 <p>
                     In partial fulfillment of<br/>

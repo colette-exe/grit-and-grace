@@ -4,21 +4,28 @@
     margin-right: auto;
     width: 100%;
 }
-
-#home-content {
-    margin: 3%;
-    margin-top: 0;
-    padding: 3%;
-    background-color: rgb(117, 180, 192);
-
+#home-content #paragraph {
+    margin: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: Abel;
+    font-size: 20px;
+    text-align: center;
+    line-height: 1.5;
+    
     /* positioning */
     align-items: center;
-    display: flex;
+    display: block;
     justify-content: center;
-
-    font-family: Dosis;
-    font-size: 14px;
-    font-weight: 600;
+}
+#home-content iframe {
+    margin: 3%;
+    display: block;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    /* background-color: rgb(117, 180, 192); */
 
     border-radius: 10px;
 }

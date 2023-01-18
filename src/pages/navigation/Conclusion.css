@@ -5,3 +5,22 @@
     font-family: Lobster;
     color: rgb(88, 162, 176);
 }
+
+#conclusion #content {
+    font-family: Abel;
+    font-size: 20px;
+    color: rgb(86, 66, 66);
+    line-height: 1;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#conclusion #content h2, #conclusion #content h4 {
+    color: rgb(88, 162, 176);
+    line-height: 0.5;
+}
+
+#conclusion #content h2 {
+    font-size: 40px;
+}

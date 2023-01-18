@@ -6,6 +6,7 @@ import LessonPlan from "./navigation/LessonPlan";
 import Conclusion from "./navigation/Conclusion";
 import References from "./navigation/References";
 import Disclaimer from "./navigation/Disclaimer";
+import Feedback from "./navigation/Feedback";
 
 class Body extends React.Component {
     render() {
@@ -47,6 +48,11 @@ class Body extends React.Component {
             else if (path === "disclaimer") {
                 return (
                     <Disclaimer />
+                )
+            }
+            else if (path === "feedback") {
+                return (
+                    <Feedback />
                 )
             }
             return (

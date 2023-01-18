@@ -4,3 +4,42 @@
     font-size: 30px;
     color: rgb(125, 91, 75);
 }
+
+#overview p {
+    font-family: Abel;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    color: black;
+}
+
+#overview .lists {
+    text-align: left;
+    line-height: 1.5;
+    margin-left: auto;
+    margin-right: auto;
+
+    font-family: Abel;
+    font-size: 20px;
+    width: 60%;
+    color: black;
+}
+
+#overview .bold-text {
+    font-weight: bold;
+}
+
+#overview .texts {
+    font-family: Abel;
+    font-size: 20px;
+    color: black;
+}
+
+#overview .lists h2 {
+    text-align: center;
+}
+
+.larger-text {
+    font-size: 24px;
+}

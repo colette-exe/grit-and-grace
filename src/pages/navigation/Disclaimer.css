@@ -12,3 +12,11 @@
     font-size: 80px;
     color: rgb(198, 123, 106);
 }
+
+#disclaimer p {
+    font-size: 20px;
+    font-family: Abel;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}

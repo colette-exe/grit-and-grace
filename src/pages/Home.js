@@ -16,6 +16,7 @@ class Home extends React.Component {
         this.set_type_learning = this.set_type_learning.bind(this);
         this.set_type_lesson = this.set_type_lesson.bind(this);
         this.set_type_reference = this.set_type_reference.bind(this);
+        this.set_type_feedback = this.set_type_feedback.bind(this);
     }
 
     set_type_home() {
@@ -46,6 +47,10 @@ class Home extends React.Component {
         this.setState({ type: 'disclaimer' })
     }
 
+    set_type_feedback() {
+        this.setState({ type: 'feedback' })
+    }
+
 
     render() {
         return (
@@ -61,6 +66,7 @@ class Home extends React.Component {
                         <button onClick={this.set_type_conclusion}>CONCLUSIONS AND RECOMMENDATIONS</button>
                         <button onClick={this.set_type_reference}>REFERENCES</button>
                         <button onClick={this.set_type_disclaimer}>DISCLAIMER</button>
+                        <button onClick={this.set_type_feedback}>FEEDBACK</button>
                     </div>
                     {/* <button id='search'><a href="">SEARCH</a></button> */}
                 </div>

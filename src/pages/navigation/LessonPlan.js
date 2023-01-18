@@ -54,7 +54,7 @@ class LessonPlan extends React.Component {
                 
                 {/* contents */}
                 <div id="lesson-plan-content">
-                    <LessonPlanContent data={ this.state.type } />
+                    <LessonPlanContent data={this.state.type} />
                 </div>
             </div>
         )

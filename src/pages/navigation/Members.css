@@ -26,8 +26,8 @@
 #member-summary {
     text-align: center;
     display: block;
-    padding: 3%;
-    margin: 3%;
+    padding: 1%;
+    margin-bottom: 3%;
     margin-top: 0;
 
     font-family: Lobster;
@@ -39,16 +39,27 @@ div.member-card {
     display: table-cell;
     vertical-align: middle;
 
-    margin: 30%;
+    margin: auto;
     margin-bottom: 3%;
-    margin-top: 3%;
     margin-top: 0;
     padding: 3vw;
+    max-height: 450px;
+    max-width: 450px;
 
     border-style: solid;
     border-radius: 10px;
-    border: rgb(117, 180, 192);
+    border: rgb(238, 202, 197);
     background-color: rgb(238, 202, 197);
+    overflow: hidden;
 
     display:grid;
+}
+
+div.member-card iframe {
+    width: 1200px;
+    height: 1200px;
+    border: 0;
+    position: inherit;
+    transform: scale(0.40);
+    transform-origin: 0 0;
 }

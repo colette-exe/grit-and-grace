@@ -1,4 +1,4 @@
-#references {
+#feedback {
     position: relative;
     top: 3vw;
     text-align: center;
@@ -6,20 +6,22 @@
     margin-bottom: 5%;
 }
 
-#references h3 {
+#feedback h3 {
     font-family: Lobster;
     text-align: center;
     font-size: 80px;
-    color: rgb(106, 156, 134);
+    color: rgb(185, 155, 115);
 }
 
-#references ul {
-    text-align: left;
-    line-height: 1.75;
-    max-width: 80%;
+#feedback p {
+    font-family: Abel;
+    font-size: 24px;
+}
+
+#feedback p ul {
+    font-size: 20px;
+    width: 20%;
     margin-left: auto;
     margin-right: auto;
-
-    font-family: Abel;
-    font-size: 18px;
+    text-align: left;
 }

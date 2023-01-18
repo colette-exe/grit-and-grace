@@ -10,7 +10,7 @@
 
 #package-body {
     font-size: 20px;
-    font: Dosis;
+    font-family: Abel;
     background-color: rgb(238, 202, 197);
 
     display: block;
@@ -20,4 +20,33 @@
     width: 80%;
     text-align: center;
     padding: 3%;
+}
+
+#package-body p {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#package-body .lists {
+    text-align: left;
+    line-height: 1.5;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+
+    font-family: Abel;
+    font-size: 18px;
+}
+
+#package-h {
+    line-height: 0.5;
+}
+
+#package-body #bold-text {
+    font-weight: bold;
+}
+
+#package-body ul {
+    text-align: left;
 }
