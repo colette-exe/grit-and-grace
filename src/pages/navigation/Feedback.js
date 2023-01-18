@@ -7,7 +7,7 @@ class Feedback extends React.Component {
             <div id="feedback">
                 <h3>Feedback</h3>
                 <p>
-                    For feedbacks, the team can be reached through the following email addresses:<br />
+                    For feedback, the team can be reached through the following email addresses:<br />
                     <ul>
                         <li>crduka1@upou.edu.ph</li>
                         <li>lady.adoptante@upou.edu.ph</li>
